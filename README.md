@@ -36,6 +36,11 @@ The primary objectives of this project are:
 5. **Custom Formatting**:
    - Format the date and time using a flexible format string (e.g., `"YYYY-MM-DD HH:mm:SS"`) that can include plain text (e.g., `"Today is YYYY-MM-DD"`).
 
+## Screenshots
+
+![Screenshot (37)](https://github.com/user-attachments/assets/4c3f9fad-c787-445d-b33f-5b42c72b9bdc)
+
+
 ## Author
   **.Kailash Paudel**
   

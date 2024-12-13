@@ -1,0 +1,17 @@
+# Ignore listed files and folders
+.vs/
+*.sln
+*.vcxproj*
+DateTime.59fd5b43/
+x64/
+
+# Ignore other files if needed
+*.tmp
+*.log
+
+# Include only the specific files
+!main.cpp
+!DateTime.hpp
+!DateTime.cpp
+!Date.cpp
+!Time.cpp
